@@ -68,7 +68,9 @@ Here is how each major type of mathematical equation is used to solve practical,
 * **Radical Equations**
   * *Application:* Forensics and accident investigation.
   * *Example:* Police officers use square root equations to accurately calculate how fast a car was speeding based on the length of its skid marks on asphalt.
----## 2. Transcendental Equations* **Exponential Equations**
+---
+
+## 2. Transcendental Equations* **Exponential Equations**
   * *Application:* Medicine and banking.
   * *Example:* Tracking how fast a bacterial infection spreads through a population, or calculating how much compound interest a savings account earns over 10 years.
 * **Logarithmic Equations**
@@ -77,7 +79,9 @@ Here is how each major type of mathematical equation is used to solve practical,
 * **Trigonometric Equations**
   * *Application:* Architecture and oceanography.
   * *Example:* Architects use sine and cosine equations to calculate the perfect angles for roof trusses, while oceanographers use them to forecast the high and low tide cycles.
----## 3. Calculus and Dynamic Equations* **Ordinary Differential Equations (ODEs)**
+---
+
+## 3. Calculus and Dynamic Equations* **Ordinary Differential Equations (ODEs)**
   * *Application:* Aerospace engineering.
   * *Example:* Tracking how the speed and altitude of a spaceship change over time as it burns through its fuel supply and fights gravity.
 * **Partial Differential Equations (PDEs)**
