@@ -2,9 +2,11 @@
 
 Mathematical equations are classified based on the nature of their variables, exponents, and operations. They range from simple relationships where variables have a power of 1 to complex differential systems that describe how things change over time.
 
----
 
-## 1. Algebraic Equations
+
+
+
+## 1. Algebraic Equations  
 Algebraic equations involve variables, coefficients, and standard arithmetic operations where the exponents of the variables are integers.  
 
 * **Linear Equations**: The highest exponent of the variable is 1, forming a straight line when graphed.
