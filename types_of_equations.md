@@ -52,8 +52,8 @@ These equations focus on rates of change and accumulation, essential for modelin
 
 # Real-World Applications of Mathematical Equations
 Here is how each major type of mathematical equation is used to solve practical, real-world problems.
-## 1. Algebraic Equations* 
-**Linear Equations**
+## 1. Algebraic Equations
+* **Linear Equations**
   * *Application:* Financial budgeting.
   * *Example:* Calculating a company's total monthly operating costs by multiplying the cost per employee by the number of employees, plus fixed office rent.
 * **Quadratic Equations**
