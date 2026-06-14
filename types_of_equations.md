@@ -5,7 +5,7 @@ Mathematical equations are classified based on the nature of their variables, ex
 ---
 
 ## 1. Algebraic Equations
-Algebraic equations involve variables, coefficients, and standard arithmetic operations where the exponents of the variables are integers.
+Algebraic equations involve variables, coefficients, and standard arithmetic operations where the exponents of the variables are integers.  
 
 * **Linear Equations**: The highest exponent of the variable is 1, forming a straight line when graphed.
   * *Standard form:* $ax + b = 0$
